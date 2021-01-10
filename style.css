@@ -27,7 +27,7 @@ input {
 }
 
 .container {
-    border: 2px dotted green;
+    /* border: 2px dotted green; */
     position: relative;
     width: 100%;
     min-height: 100vh;
@@ -37,7 +37,7 @@ input {
 
 .forms-container {
     /* background-color: lawngreen; */
-    border: 5px dotted red;
+    /* border: 5px dotted red; */
     position: absolute;
     width: 100%;
     height: 100%;
@@ -65,7 +65,7 @@ form {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    border: 2px dotted blue;
+    /* border: 2px dotted blue; */
     grid-column: 1/2;
     /* 1st line to second line */
     grid-row: 1/2;
@@ -92,7 +92,7 @@ form.sign-up-form {
 }
 
 .input-field {
-    border: 2px dotted hotpink;
+    /* border: 2px dotted hotpink; */
     max-width: 380px;
     width: 100%;
     height: 55px;
@@ -153,7 +153,7 @@ form.sign-up-form {
 }
 
 .social-media {
-    border: 2px dotted lightseagreen;
+    /* border: 2px dotted lightseagreen; */
     display: flex;
     justify-content: center;
 }
